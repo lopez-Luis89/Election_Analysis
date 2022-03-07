@@ -2,7 +2,7 @@
  Election Results
 -------------------
 Total Votes: 369,711
--------------------
+--------Arapahoe: 7.0% (24,801)-----------
 Charles Casper Stockham: 23.0% (85,213)
 Diana DeGette: 74.0% (272,892)
 Raymon Anthony Doane: 3.0% (11,606)
