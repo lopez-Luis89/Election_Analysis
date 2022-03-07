@@ -10,7 +10,7 @@ Jefferson:38855, 10.5%
 Denver:306055, 82.8% 
 Arapahoe:24801, 6.7%
 -----------------------
-Largest Turnout:306055: Denver
+Largest Turnout:Denver
 -----------------------
 Charles Casper Stockham: 23.0% (85,213)
 
